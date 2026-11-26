@@ -68,8 +68,8 @@ class DeepSeekClient:
    headers={'Authorization':'Bearer '+self.key,'Content-Type':'application/json'},method='POST')
   try:
    with urllib.request.urlopen(req,timeout=60) as response:result=json.load(response)
-  except urllib.error.HTTPError as e:raise AgentError(f'DeepSeek请求失败，HTTP {e.code}') from None
-  except (OSError,ValueError):raise AgentError('DeepSeek连接失败或返回内容无效') from None
+  except urllib.error.HTTPError as e:raise AgentError(f'DeepSeek请求失败，HTTP {e.code}: {e.read().decode("utf-8","ignore")[:200]}') from None
+  except (OSError,ValueError) as e:raise AgentError(f'DeepSeek连接失败或返回内容无效（{type(e).__name__}: {str(e)[:200]}）') from None
   try:
    choice=result['choices'][0]
    if choice.get('finish_reason')=='length':raise AgentError('模型输出超过长度限制，未交付未完成答案')
