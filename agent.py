@@ -4,6 +4,7 @@ import argparse
 import hashlib
 import json
 import os
+import time
 import urllib.error
 import urllib.request
 from datetime import date
@@ -66,10 +67,17 @@ class DeepSeekClient:
            'thinking':{'type':'disabled'},'temperature':0,'max_tokens':2200}
   req=urllib.request.Request('https://api.deepseek.com/chat/completions',data=json.dumps(payload,ensure_ascii=False).encode(),
    headers={'Authorization':'Bearer '+self.key,'Content-Type':'application/json'},method='POST')
-  try:
-   with urllib.request.urlopen(req,timeout=60) as response:result=json.load(response)
-  except urllib.error.HTTPError as e:raise AgentError(f'DeepSeek请求失败，HTTP {e.code}: {e.read().decode("utf-8","ignore")[:200]}') from None
-  except (OSError,ValueError) as e:raise AgentError(f'DeepSeek连接失败或返回内容无效（{type(e).__name__}: {str(e)[:200]}）') from None
+  last_error=None
+  for attempt in range(3):
+   try:
+    with urllib.request.urlopen(req,timeout=120) as response:result=json.load(response)
+    break
+   except urllib.error.HTTPError as e:raise AgentError(f'DeepSeek请求失败，HTTP {e.code}: {e.read().decode("utf-8","ignore")[:200]}') from None
+   except (OSError,ValueError) as e:
+    last_error=e
+    if attempt<2:time.sleep(2*(attempt+1))
+  else:
+   raise AgentError(f'DeepSeek连接失败或返回内容无效（{type(last_error).__name__}: {str(last_error)[:200]}）') from None
   try:
    choice=result['choices'][0]
    if choice.get('finish_reason')=='length':raise AgentError('模型输出超过长度限制，未交付未完成答案')
