@@ -84,7 +84,8 @@ def make_server(root=ROOT,port=8771,agent_factory=None):
     if s is None:return self.send(503,{'error':'会话数量已满，请稍后重试'})
     baseline=json.loads((root/'data/baseline.json').read_text());policy=json.loads((root/'data/policy.json').read_text())
     with s.lock:turns=copy.deepcopy(s.turns);job=copy.deepcopy(s.job)
-    return self.send(200,{'csrf':s.csrf,'baseline':baseline,'policy':policy,'turns':turns,'job':job,'configured':(root/'.env').exists()},cookie=cookie)
+    import os as _os
+    return self.send(200,{'csrf':s.csrf,'baseline':baseline,'policy':policy,'turns':turns,'job':job,'configured':bool(_os.environ.get('DEEPSEEK_API_KEY') or (root/'.env').exists())},cookie=cookie)
    if path in ('/api/job','/api/export'):
     s,_=self.session()
     if s is None:return self.send(401,{'error':'请刷新页面建立会话'})
