@@ -1,0 +1,8 @@
+FROM python:3.11-slim
+WORKDIR /app
+COPY . .
+ENV PYTHONUNBUFFERED=1 \
+    YINLING_PUBLIC=1 \
+    BIND_HOST=0.0.0.0
+EXPOSE 10000
+CMD python server.py --port ${PORT:-10000}

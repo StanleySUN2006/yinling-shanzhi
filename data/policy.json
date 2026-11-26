@@ -1,0 +1,17 @@
+{
+  "source_url": "https://mzj.sh.gov.cn/MZ_zhuzhan2739_0-2-8-15-55/20221231/7b0f176b5fc7417082eadd01c1421313.html",
+  "valid_from": "2023-02-01",
+  "valid_to": "2028-01-31",
+  "checked_on": "2026-11-07",
+  "reference_ratio": 0.015,
+  "population_basis": "户籍老年人口",
+  "bed_metric": "保基本床位",
+  "clause": "第六条",
+  "cross_district_provision": true,
+  "can_certify_compliance_from_list_groups": false,
+  "rules": [
+    "各区保基本床位规划参照户籍老年人口的1.5%",
+    "中心城区可实行在地建设与全市统筹建设相结合",
+    "不能将名单分组差额认定为真实需求缺口或政策未达标"
+  ]
+}

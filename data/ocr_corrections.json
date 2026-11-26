@@ -1,0 +1,114 @@
+[
+  {
+    "source_image": "basic_beds_2026_0.png",
+    "source_row": 6,
+    "field": "sequence",
+    "old_value": 9,
+    "new_value": 6,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 3,
+    "field": "sequence",
+    "old_value": 6,
+    "new_value": 9,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 60,
+    "field": "sequence",
+    "old_value": 99,
+    "new_value": 66,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 62,
+    "field": "basic_beds",
+    "old_value": 66,
+    "new_value": 99,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 93,
+    "field": "sequence",
+    "old_value": 66,
+    "new_value": 99,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 4,
+    "field": "basic_beds",
+    "old_value": 99,
+    "new_value": 66,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 9,
+    "field": "basic_beds",
+    "old_value": 9,
+    "new_value": 60,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 5,
+    "field": "basic_beds",
+    "old_value": 9,
+    "new_value": 60,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 2,
+    "field": "basic_beds",
+    "old_value": 6,
+    "new_value": 90,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 4,
+    "field": "basic_beds",
+    "old_value": 6,
+    "new_value": 90,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 8,
+    "field": "basic_beds",
+    "old_value": 66,
+    "new_value": 99,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 14,
+    "field": "basic_beds",
+    "old_value": 99,
+    "new_value": 660,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 13,
+    "field": "basic_beds",
+    "old_value": 996,
+    "new_value": 966,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  },
+  {
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 2,
+    "field": "basic_beds",
+    "old_value": 9,
+    "new_value": 600,
+    "evidence": "correction_detail.png及原始名单图片；模型目视复核"
+  }
+]

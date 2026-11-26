@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: yinling-shanzhi
+    runtime: docker
+    plan: free
+    region: singapore
+    envVars:
+      - key: DEEPSEEK_API_KEY
+        sync: false
+      - key: YINLING_PUBLIC
+        value: "1"
+      - key: BIND_HOST
+        value: 0.0.0.0

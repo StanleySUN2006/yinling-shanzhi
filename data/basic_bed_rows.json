@@ -1,0 +1,5012 @@
+[
+  {
+    "group": "市属",
+    "sequence": 1,
+    "basic_beds": 300,
+    "source_image": "basic_beds_2026_0.png",
+    "source_row": 1,
+    "ocr_file": "r00_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "市属",
+    "sequence": 2,
+    "basic_beds": 208,
+    "source_image": "basic_beds_2026_0.png",
+    "source_row": 2,
+    "ocr_file": "r00_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "市属",
+    "sequence": 3,
+    "basic_beds": 550,
+    "source_image": "basic_beds_2026_0.png",
+    "source_row": 3,
+    "ocr_file": "r00_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "市属",
+    "sequence": 4,
+    "basic_beds": 402,
+    "source_image": "basic_beds_2026_0.png",
+    "source_row": 4,
+    "ocr_file": "r00_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "市属",
+    "sequence": 5,
+    "basic_beds": 350,
+    "source_image": "basic_beds_2026_0.png",
+    "source_row": 5,
+    "ocr_file": "r00_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "市属",
+    "sequence": 6,
+    "basic_beds": 450,
+    "source_image": "basic_beds_2026_0.png",
+    "source_row": 6,
+    "ocr_file": "r00_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 7,
+    "basic_beds": 93,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 1,
+    "ocr_file": "r01_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 8,
+    "basic_beds": 240,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 2,
+    "ocr_file": "r01_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 9,
+    "basic_beds": 142,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 3,
+    "ocr_file": "r01_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 10,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 4,
+    "ocr_file": "r01_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 11,
+    "basic_beds": 75,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 5,
+    "ocr_file": "r01_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 12,
+    "basic_beds": 135,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 6,
+    "ocr_file": "r01_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 13,
+    "basic_beds": 290,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 7,
+    "ocr_file": "r01_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 14,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 8,
+    "ocr_file": "r01_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 15,
+    "basic_beds": 68,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 9,
+    "ocr_file": "r01_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 16,
+    "basic_beds": 115,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 10,
+    "ocr_file": "r01_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 17,
+    "basic_beds": 150,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 11,
+    "ocr_file": "r01_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 18,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 12,
+    "ocr_file": "r01_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 19,
+    "basic_beds": 103,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 13,
+    "ocr_file": "r01_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 20,
+    "basic_beds": 80,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 14,
+    "ocr_file": "r01_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 21,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 15,
+    "ocr_file": "r01_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 22,
+    "basic_beds": 342,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 16,
+    "ocr_file": "r01_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 23,
+    "basic_beds": 126,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 17,
+    "ocr_file": "r01_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 24,
+    "basic_beds": 80,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 18,
+    "ocr_file": "r01_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 25,
+    "basic_beds": 75,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 19,
+    "ocr_file": "r01_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 26,
+    "basic_beds": 648,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 20,
+    "ocr_file": "r01_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 27,
+    "basic_beds": 108,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 21,
+    "ocr_file": "r01_021.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 28,
+    "basic_beds": 93,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 22,
+    "ocr_file": "r01_022.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 29,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 23,
+    "ocr_file": "r01_023.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 30,
+    "basic_beds": 139,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 24,
+    "ocr_file": "r01_024.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 31,
+    "basic_beds": 252,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 25,
+    "ocr_file": "r01_025.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 32,
+    "basic_beds": 413,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 26,
+    "ocr_file": "r01_026.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 33,
+    "basic_beds": 506,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 27,
+    "ocr_file": "r01_027.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 34,
+    "basic_beds": 250,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 28,
+    "ocr_file": "r01_028.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 35,
+    "basic_beds": 80,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 29,
+    "ocr_file": "r01_029.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 36,
+    "basic_beds": 250,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 30,
+    "ocr_file": "r01_030.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 37,
+    "basic_beds": 376,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 31,
+    "ocr_file": "r01_031.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 38,
+    "basic_beds": 500,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 32,
+    "ocr_file": "r01_032.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 39,
+    "basic_beds": 250,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 33,
+    "ocr_file": "r01_033.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 40,
+    "basic_beds": 69,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 34,
+    "ocr_file": "r01_034.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 41,
+    "basic_beds": 80,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 35,
+    "ocr_file": "r01_035.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 42,
+    "basic_beds": 727,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 36,
+    "ocr_file": "r01_036.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 43,
+    "basic_beds": 172,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 37,
+    "ocr_file": "r01_037.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 44,
+    "basic_beds": 140,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 38,
+    "ocr_file": "r01_038.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 45,
+    "basic_beds": 120,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 39,
+    "ocr_file": "r01_039.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 46,
+    "basic_beds": 225,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 40,
+    "ocr_file": "r01_040.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 47,
+    "basic_beds": 91,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 41,
+    "ocr_file": "r01_041.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 48,
+    "basic_beds": 196,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 42,
+    "ocr_file": "r01_042.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 49,
+    "basic_beds": 283,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 43,
+    "ocr_file": "r01_043.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 50,
+    "basic_beds": 158,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 44,
+    "ocr_file": "r01_044.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 51,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 45,
+    "ocr_file": "r01_045.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 52,
+    "basic_beds": 303,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 46,
+    "ocr_file": "r01_046.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 53,
+    "basic_beds": 608,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 47,
+    "ocr_file": "r01_047.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 54,
+    "basic_beds": 636,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 48,
+    "ocr_file": "r01_048.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 55,
+    "basic_beds": 82,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 49,
+    "ocr_file": "r01_049.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 56,
+    "basic_beds": 138,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 50,
+    "ocr_file": "r01_050.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 57,
+    "basic_beds": 242,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 51,
+    "ocr_file": "r01_051.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 58,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 52,
+    "ocr_file": "r01_052.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 59,
+    "basic_beds": 730,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 53,
+    "ocr_file": "r01_053.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 60,
+    "basic_beds": 127,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 54,
+    "ocr_file": "r01_054.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 61,
+    "basic_beds": 119,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 55,
+    "ocr_file": "r01_055.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 62,
+    "basic_beds": 120,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 56,
+    "ocr_file": "r01_056.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 63,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 57,
+    "ocr_file": "r01_057.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 64,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 58,
+    "ocr_file": "r01_058.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 65,
+    "basic_beds": 80,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 59,
+    "ocr_file": "r01_059.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 66,
+    "basic_beds": 529,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 60,
+    "ocr_file": "r01_060.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 67,
+    "basic_beds": 460,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 61,
+    "ocr_file": "r01_061.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 68,
+    "basic_beds": 99,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 62,
+    "ocr_file": "r01_062.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 69,
+    "basic_beds": 242,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 63,
+    "ocr_file": "r01_063.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 70,
+    "basic_beds": 113,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 64,
+    "ocr_file": "r01_064.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 71,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 65,
+    "ocr_file": "r01_065.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 72,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 66,
+    "ocr_file": "r01_066.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 73,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 67,
+    "ocr_file": "r01_067.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 74,
+    "basic_beds": 160,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 68,
+    "ocr_file": "r01_068.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 75,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 69,
+    "ocr_file": "r01_069.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 76,
+    "basic_beds": 153,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 70,
+    "ocr_file": "r01_070.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 77,
+    "basic_beds": 350,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 71,
+    "ocr_file": "r01_071.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 78,
+    "basic_beds": 248,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 72,
+    "ocr_file": "r01_072.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 79,
+    "basic_beds": 160,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 73,
+    "ocr_file": "r01_073.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 80,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 74,
+    "ocr_file": "r01_074.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 81,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 75,
+    "ocr_file": "r01_075.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 82,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 76,
+    "ocr_file": "r01_076.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 83,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 77,
+    "ocr_file": "r01_077.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 84,
+    "basic_beds": 231,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 78,
+    "ocr_file": "r01_078.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 85,
+    "basic_beds": 233,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 79,
+    "ocr_file": "r01_079.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 86,
+    "basic_beds": 418,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 80,
+    "ocr_file": "r01_080.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 87,
+    "basic_beds": 330,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 81,
+    "ocr_file": "r01_081.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 88,
+    "basic_beds": 1036,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 82,
+    "ocr_file": "r01_082.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 89,
+    "basic_beds": 560,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 83,
+    "ocr_file": "r01_083.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 90,
+    "basic_beds": 32,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 84,
+    "ocr_file": "r01_084.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 91,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 85,
+    "ocr_file": "r01_085.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 92,
+    "basic_beds": 35,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 86,
+    "ocr_file": "r01_086.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 93,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 87,
+    "ocr_file": "r01_087.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 94,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 88,
+    "ocr_file": "r01_088.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 95,
+    "basic_beds": 33,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 89,
+    "ocr_file": "r01_089.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 96,
+    "basic_beds": 30,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 90,
+    "ocr_file": "r01_090.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 97,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 91,
+    "ocr_file": "r01_091.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 98,
+    "basic_beds": 26,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 92,
+    "ocr_file": "r01_092.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 99,
+    "basic_beds": 12,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 93,
+    "ocr_file": "r01_093.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 100,
+    "basic_beds": 41,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 94,
+    "ocr_file": "r01_094.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 101,
+    "basic_beds": 33,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 95,
+    "ocr_file": "r01_095.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 102,
+    "basic_beds": 18,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 96,
+    "ocr_file": "r01_096.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 103,
+    "basic_beds": 36,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 97,
+    "ocr_file": "r01_097.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 104,
+    "basic_beds": 11,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 98,
+    "ocr_file": "r01_098.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 105,
+    "basic_beds": 24,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 99,
+    "ocr_file": "r01_099.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 106,
+    "basic_beds": 30,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 100,
+    "ocr_file": "r01_100.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 107,
+    "basic_beds": 21,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 101,
+    "ocr_file": "r01_101.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 108,
+    "basic_beds": 30,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 102,
+    "ocr_file": "r01_102.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 109,
+    "basic_beds": 15,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 103,
+    "ocr_file": "r01_103.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 110,
+    "basic_beds": 42,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 104,
+    "ocr_file": "r01_104.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 111,
+    "basic_beds": 14,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 105,
+    "ocr_file": "r01_105.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 112,
+    "basic_beds": 10,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 106,
+    "ocr_file": "r01_106.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 113,
+    "basic_beds": 22,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 107,
+    "ocr_file": "r01_107.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 114,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 108,
+    "ocr_file": "r01_108.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 115,
+    "basic_beds": 11,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 109,
+    "ocr_file": "r01_109.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 116,
+    "basic_beds": 25,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 110,
+    "ocr_file": "r01_110.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 117,
+    "basic_beds": 35,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 111,
+    "ocr_file": "r01_111.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 118,
+    "basic_beds": 26,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 112,
+    "ocr_file": "r01_112.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 119,
+    "basic_beds": 33,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 113,
+    "ocr_file": "r01_113.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 120,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 114,
+    "ocr_file": "r01_114.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 121,
+    "basic_beds": 30,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 115,
+    "ocr_file": "r01_115.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 122,
+    "basic_beds": 22,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 116,
+    "ocr_file": "r01_116.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "浦东新区",
+    "sequence": 123,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_1.png",
+    "source_row": 117,
+    "ocr_file": "r01_117.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 124,
+    "basic_beds": 240,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 1,
+    "ocr_file": "r02_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 125,
+    "basic_beds": 110,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 2,
+    "ocr_file": "r02_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 126,
+    "basic_beds": 210,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 3,
+    "ocr_file": "r02_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 127,
+    "basic_beds": 66,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 4,
+    "ocr_file": "r02_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 128,
+    "basic_beds": 145,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 5,
+    "ocr_file": "r02_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 129,
+    "basic_beds": 153,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 6,
+    "ocr_file": "r02_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 130,
+    "basic_beds": 70,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 7,
+    "ocr_file": "r02_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 131,
+    "basic_beds": 60,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 8,
+    "ocr_file": "r02_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 132,
+    "basic_beds": 60,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 9,
+    "ocr_file": "r02_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 133,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 10,
+    "ocr_file": "r02_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 134,
+    "basic_beds": 138,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 11,
+    "ocr_file": "r02_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 135,
+    "basic_beds": 314,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 12,
+    "ocr_file": "r02_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 136,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 13,
+    "ocr_file": "r02_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 137,
+    "basic_beds": 273,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 14,
+    "ocr_file": "r02_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 138,
+    "basic_beds": 26,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 15,
+    "ocr_file": "r02_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 139,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 16,
+    "ocr_file": "r02_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 140,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 17,
+    "ocr_file": "r02_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 141,
+    "basic_beds": 256,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 18,
+    "ocr_file": "r02_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 142,
+    "basic_beds": 26,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 19,
+    "ocr_file": "r02_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 143,
+    "basic_beds": 3,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 20,
+    "ocr_file": "r02_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 144,
+    "basic_beds": 158,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 21,
+    "ocr_file": "r02_021.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 145,
+    "basic_beds": 208,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 22,
+    "ocr_file": "r02_022.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 146,
+    "basic_beds": 48,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 23,
+    "ocr_file": "r02_023.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 147,
+    "basic_beds": 398,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 24,
+    "ocr_file": "r02_024.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 148,
+    "basic_beds": 116,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 25,
+    "ocr_file": "r02_025.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 149,
+    "basic_beds": 56,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 26,
+    "ocr_file": "r02_026.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 150,
+    "basic_beds": 47,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 27,
+    "ocr_file": "r02_027.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 151,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 28,
+    "ocr_file": "r02_028.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 152,
+    "basic_beds": 28,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 29,
+    "ocr_file": "r02_029.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 153,
+    "basic_beds": 30,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 30,
+    "ocr_file": "r02_030.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 154,
+    "basic_beds": 44,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 31,
+    "ocr_file": "r02_031.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 155,
+    "basic_beds": 25,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 32,
+    "ocr_file": "r02_032.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "黄浦区",
+    "sequence": 156,
+    "basic_beds": 15,
+    "source_image": "basic_beds_2026_2.png",
+    "source_row": 33,
+    "ocr_file": "r02_033.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "静安区",
+    "sequence": 157,
+    "basic_beds": 317,
+    "source_image": "basic_beds_2026_3.png",
+    "source_row": 1,
+    "ocr_file": "r03_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "静安区",
+    "sequence": 158,
+    "basic_beds": 130,
+    "source_image": "basic_beds_2026_3.png",
+    "source_row": 2,
+    "ocr_file": "r03_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "静安区",
+    "sequence": 159,
+    "basic_beds": 125,
+    "source_image": "basic_beds_2026_3.png",
+    "source_row": 3,
+    "ocr_file": "r03_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "静安区",
+    "sequence": 160,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_3.png",
+    "source_row": 4,
+    "ocr_file": "r03_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 161,
+    "basic_beds": 180,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 1,
+    "ocr_file": "r04_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 162,
+    "basic_beds": 312,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 2,
+    "ocr_file": "r04_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 163,
+    "basic_beds": 222,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 3,
+    "ocr_file": "r04_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 164,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 4,
+    "ocr_file": "r04_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 165,
+    "basic_beds": 750,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 5,
+    "ocr_file": "r04_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 166,
+    "basic_beds": 784,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 6,
+    "ocr_file": "r04_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 167,
+    "basic_beds": 128,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 7,
+    "ocr_file": "r04_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 168,
+    "basic_beds": 70,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 8,
+    "ocr_file": "r04_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 169,
+    "basic_beds": 110,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 9,
+    "ocr_file": "r04_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 170,
+    "basic_beds": 90,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 10,
+    "ocr_file": "r04_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 171,
+    "basic_beds": 139,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 11,
+    "ocr_file": "r04_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 172,
+    "basic_beds": 60,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 12,
+    "ocr_file": "r04_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 173,
+    "basic_beds": 88,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 13,
+    "ocr_file": "r04_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 174,
+    "basic_beds": 198,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 14,
+    "ocr_file": "r04_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 175,
+    "basic_beds": 237,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 15,
+    "ocr_file": "r04_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 176,
+    "basic_beds": 85,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 16,
+    "ocr_file": "r04_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 177,
+    "basic_beds": 70,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 17,
+    "ocr_file": "r04_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 178,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 18,
+    "ocr_file": "r04_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 179,
+    "basic_beds": 33,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 19,
+    "ocr_file": "r04_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "徐汇区",
+    "sequence": 180,
+    "basic_beds": 16,
+    "source_image": "basic_beds_2026_4.png",
+    "source_row": 20,
+    "ocr_file": "r04_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 181,
+    "basic_beds": 120,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 1,
+    "ocr_file": "r05_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 182,
+    "basic_beds": 110,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 2,
+    "ocr_file": "r05_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 183,
+    "basic_beds": 113,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 3,
+    "ocr_file": "r05_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 184,
+    "basic_beds": 43,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 4,
+    "ocr_file": "r05_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 185,
+    "basic_beds": 60,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 5,
+    "ocr_file": "r05_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 186,
+    "basic_beds": 271,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 6,
+    "ocr_file": "r05_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 187,
+    "basic_beds": 31,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 7,
+    "ocr_file": "r05_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 188,
+    "basic_beds": 513,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 8,
+    "ocr_file": "r05_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 189,
+    "basic_beds": 38,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 9,
+    "ocr_file": "r05_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 190,
+    "basic_beds": 73,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 10,
+    "ocr_file": "r05_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 191,
+    "basic_beds": 112,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 11,
+    "ocr_file": "r05_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 192,
+    "basic_beds": 260,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 12,
+    "ocr_file": "r05_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 193,
+    "basic_beds": 192,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 13,
+    "ocr_file": "r05_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 194,
+    "basic_beds": 76,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 14,
+    "ocr_file": "r05_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 195,
+    "basic_beds": 101,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 15,
+    "ocr_file": "r05_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 196,
+    "basic_beds": 350,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 16,
+    "ocr_file": "r05_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 197,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 17,
+    "ocr_file": "r05_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 198,
+    "basic_beds": 92,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 18,
+    "ocr_file": "r05_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 199,
+    "basic_beds": 248,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 19,
+    "ocr_file": "r05_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 200,
+    "basic_beds": 45,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 20,
+    "ocr_file": "r05_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 201,
+    "basic_beds": 58,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 21,
+    "ocr_file": "r05_021.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 202,
+    "basic_beds": 32,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 22,
+    "ocr_file": "r05_022.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 203,
+    "basic_beds": 32,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 23,
+    "ocr_file": "r05_023.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 204,
+    "basic_beds": 232,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 24,
+    "ocr_file": "r05_024.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 205,
+    "basic_beds": 305,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 25,
+    "ocr_file": "r05_025.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 206,
+    "basic_beds": 82,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 26,
+    "ocr_file": "r05_026.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 207,
+    "basic_beds": 26,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 27,
+    "ocr_file": "r05_027.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 208,
+    "basic_beds": 30,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 28,
+    "ocr_file": "r05_028.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 209,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 29,
+    "ocr_file": "r05_029.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 210,
+    "basic_beds": 34,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 30,
+    "ocr_file": "r05_030.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 211,
+    "basic_beds": 12,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 31,
+    "ocr_file": "r05_031.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 212,
+    "basic_beds": 16,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 32,
+    "ocr_file": "r05_032.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 213,
+    "basic_beds": 16,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 33,
+    "ocr_file": "r05_033.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 214,
+    "basic_beds": 15,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 34,
+    "ocr_file": "r05_034.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 215,
+    "basic_beds": 28,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 35,
+    "ocr_file": "r05_035.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 216,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 36,
+    "ocr_file": "r05_036.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 217,
+    "basic_beds": 24,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 37,
+    "ocr_file": "r05_037.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 218,
+    "basic_beds": 26,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 38,
+    "ocr_file": "r05_038.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 219,
+    "basic_beds": 20,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 39,
+    "ocr_file": "r05_039.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 220,
+    "basic_beds": 24,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 40,
+    "ocr_file": "r05_040.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 221,
+    "basic_beds": 30,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 41,
+    "ocr_file": "r05_041.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 222,
+    "basic_beds": 16,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 42,
+    "ocr_file": "r05_042.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 223,
+    "basic_beds": 15,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 43,
+    "ocr_file": "r05_043.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 224,
+    "basic_beds": 8,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 44,
+    "ocr_file": "r05_044.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 225,
+    "basic_beds": 20,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 45,
+    "ocr_file": "r05_045.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 226,
+    "basic_beds": 23,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 46,
+    "ocr_file": "r05_046.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "长宁区",
+    "sequence": 227,
+    "basic_beds": 33,
+    "source_image": "basic_beds_2026_5.png",
+    "source_row": 47,
+    "ocr_file": "r05_047.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 228,
+    "basic_beds": 234,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 1,
+    "ocr_file": "r06_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 229,
+    "basic_beds": 130,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 2,
+    "ocr_file": "r06_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 230,
+    "basic_beds": 36,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 3,
+    "ocr_file": "r06_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 231,
+    "basic_beds": 55,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 4,
+    "ocr_file": "r06_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 232,
+    "basic_beds": 70,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 5,
+    "ocr_file": "r06_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 233,
+    "basic_beds": 106,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 6,
+    "ocr_file": "r06_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 234,
+    "basic_beds": 97,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 7,
+    "ocr_file": "r06_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 235,
+    "basic_beds": 107,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 8,
+    "ocr_file": "r06_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 236,
+    "basic_beds": 20,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 9,
+    "ocr_file": "r06_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 237,
+    "basic_beds": 10,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 10,
+    "ocr_file": "r06_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 238,
+    "basic_beds": 120,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 11,
+    "ocr_file": "r06_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 239,
+    "basic_beds": 82,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 12,
+    "ocr_file": "r06_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 240,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 13,
+    "ocr_file": "r06_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 241,
+    "basic_beds": 23,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 14,
+    "ocr_file": "r06_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 242,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 15,
+    "ocr_file": "r06_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 243,
+    "basic_beds": 10,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 16,
+    "ocr_file": "r06_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 244,
+    "basic_beds": 125,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 17,
+    "ocr_file": "r06_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 245,
+    "basic_beds": 459,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 18,
+    "ocr_file": "r06_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 246,
+    "basic_beds": 60,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 19,
+    "ocr_file": "r06_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 247,
+    "basic_beds": 125,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 20,
+    "ocr_file": "r06_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 248,
+    "basic_beds": 160,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 21,
+    "ocr_file": "r06_021.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 249,
+    "basic_beds": 239,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 22,
+    "ocr_file": "r06_022.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 250,
+    "basic_beds": 500,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 23,
+    "ocr_file": "r06_023.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 251,
+    "basic_beds": 20,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 24,
+    "ocr_file": "r06_024.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 252,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 25,
+    "ocr_file": "r06_025.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 253,
+    "basic_beds": 120,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 26,
+    "ocr_file": "r06_026.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 254,
+    "basic_beds": 160,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 27,
+    "ocr_file": "r06_027.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 255,
+    "basic_beds": 20,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 28,
+    "ocr_file": "r06_028.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 256,
+    "basic_beds": 176,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 29,
+    "ocr_file": "r06_029.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 257,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 30,
+    "ocr_file": "r06_030.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 258,
+    "basic_beds": 20,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 31,
+    "ocr_file": "r06_031.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 259,
+    "basic_beds": 150,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 32,
+    "ocr_file": "r06_032.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 260,
+    "basic_beds": 18,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 33,
+    "ocr_file": "r06_033.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "普陀区",
+    "sequence": 261,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_6.png",
+    "source_row": 34,
+    "ocr_file": "r06_034.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 262,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 1,
+    "ocr_file": "r07_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 263,
+    "basic_beds": 90,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 2,
+    "ocr_file": "r07_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 264,
+    "basic_beds": 175,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 3,
+    "ocr_file": "r07_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 265,
+    "basic_beds": 180,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 4,
+    "ocr_file": "r07_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 266,
+    "basic_beds": 165,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 5,
+    "ocr_file": "r07_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 267,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 6,
+    "ocr_file": "r07_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 268,
+    "basic_beds": 140,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 7,
+    "ocr_file": "r07_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 269,
+    "basic_beds": 220,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 8,
+    "ocr_file": "r07_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 270,
+    "basic_beds": 150,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 9,
+    "ocr_file": "r07_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 271,
+    "basic_beds": 106,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 10,
+    "ocr_file": "r07_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 272,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 11,
+    "ocr_file": "r07_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 273,
+    "basic_beds": 34,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 12,
+    "ocr_file": "r07_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 274,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 13,
+    "ocr_file": "r07_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 275,
+    "basic_beds": 115,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 14,
+    "ocr_file": "r07_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 276,
+    "basic_beds": 95,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 15,
+    "ocr_file": "r07_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 277,
+    "basic_beds": 460,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 16,
+    "ocr_file": "r07_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 278,
+    "basic_beds": 95,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 17,
+    "ocr_file": "r07_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 279,
+    "basic_beds": 55,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 18,
+    "ocr_file": "r07_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 280,
+    "basic_beds": 437,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 19,
+    "ocr_file": "r07_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 281,
+    "basic_beds": 85,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 20,
+    "ocr_file": "r07_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 282,
+    "basic_beds": 54,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 21,
+    "ocr_file": "r07_021.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 283,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 22,
+    "ocr_file": "r07_022.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 284,
+    "basic_beds": 150,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 23,
+    "ocr_file": "r07_023.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 285,
+    "basic_beds": 150,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 24,
+    "ocr_file": "r07_024.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 286,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 25,
+    "ocr_file": "r07_025.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 287,
+    "basic_beds": 35,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 26,
+    "ocr_file": "r07_026.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 288,
+    "basic_beds": 16,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 27,
+    "ocr_file": "r07_027.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 289,
+    "basic_beds": 18,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 28,
+    "ocr_file": "r07_028.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 290,
+    "basic_beds": 18,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 29,
+    "ocr_file": "r07_029.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 291,
+    "basic_beds": 20,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 30,
+    "ocr_file": "r07_030.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "虹口区",
+    "sequence": 292,
+    "basic_beds": 16,
+    "source_image": "basic_beds_2026_7.png",
+    "source_row": 31,
+    "ocr_file": "r07_031.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 293,
+    "basic_beds": 444,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 1,
+    "ocr_file": "r08_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 294,
+    "basic_beds": 120,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 2,
+    "ocr_file": "r08_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 295,
+    "basic_beds": 140,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 3,
+    "ocr_file": "r08_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 296,
+    "basic_beds": 90,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 4,
+    "ocr_file": "r08_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 297,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 5,
+    "ocr_file": "r08_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 298,
+    "basic_beds": 245,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 6,
+    "ocr_file": "r08_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 299,
+    "basic_beds": 140,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 7,
+    "ocr_file": "r08_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 300,
+    "basic_beds": 209,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 8,
+    "ocr_file": "r08_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 301,
+    "basic_beds": 26,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 9,
+    "ocr_file": "r08_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 302,
+    "basic_beds": 170,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 10,
+    "ocr_file": "r08_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 303,
+    "basic_beds": 47,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 11,
+    "ocr_file": "r08_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 304,
+    "basic_beds": 120,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 12,
+    "ocr_file": "r08_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 305,
+    "basic_beds": 508,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 13,
+    "ocr_file": "r08_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 306,
+    "basic_beds": 105,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 14,
+    "ocr_file": "r08_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 307,
+    "basic_beds": 47,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 15,
+    "ocr_file": "r08_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 308,
+    "basic_beds": 32,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 16,
+    "ocr_file": "r08_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 309,
+    "basic_beds": 75,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 17,
+    "ocr_file": "r08_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 310,
+    "basic_beds": 28,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 18,
+    "ocr_file": "r08_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 311,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 19,
+    "ocr_file": "r08_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 312,
+    "basic_beds": 15,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 20,
+    "ocr_file": "r08_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 313,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 21,
+    "ocr_file": "r08_021.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 314,
+    "basic_beds": 82,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 22,
+    "ocr_file": "r08_022.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 315,
+    "basic_beds": 42,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 23,
+    "ocr_file": "r08_023.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 316,
+    "basic_beds": 80,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 24,
+    "ocr_file": "r08_024.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 317,
+    "basic_beds": 800,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 25,
+    "ocr_file": "r08_025.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 318,
+    "basic_beds": 300,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 26,
+    "ocr_file": "r08_026.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 319,
+    "basic_beds": 256,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 27,
+    "ocr_file": "r08_027.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 320,
+    "basic_beds": 268,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 28,
+    "ocr_file": "r08_028.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 321,
+    "basic_beds": 140,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 29,
+    "ocr_file": "r08_029.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 322,
+    "basic_beds": 160,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 30,
+    "ocr_file": "r08_030.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 323,
+    "basic_beds": 153,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 31,
+    "ocr_file": "r08_031.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 324,
+    "basic_beds": 235,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 32,
+    "ocr_file": "r08_032.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 325,
+    "basic_beds": 150,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 33,
+    "ocr_file": "r08_033.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 326,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 34,
+    "ocr_file": "r08_034.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 327,
+    "basic_beds": 17,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 35,
+    "ocr_file": "r08_035.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 328,
+    "basic_beds": 20,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 36,
+    "ocr_file": "r08_036.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 329,
+    "basic_beds": 22,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 37,
+    "ocr_file": "r08_037.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 330,
+    "basic_beds": 47,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 38,
+    "ocr_file": "r08_038.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 331,
+    "basic_beds": 48,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 39,
+    "ocr_file": "r08_039.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 332,
+    "basic_beds": 10,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 40,
+    "ocr_file": "r08_040.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 333,
+    "basic_beds": 450,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 41,
+    "ocr_file": "r08_041.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 334,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 42,
+    "ocr_file": "r08_042.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 335,
+    "basic_beds": 80,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 43,
+    "ocr_file": "r08_043.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 336,
+    "basic_beds": 40,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 44,
+    "ocr_file": "r08_044.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 337,
+    "basic_beds": 90,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 45,
+    "ocr_file": "r08_045.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 338,
+    "basic_beds": 60,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 46,
+    "ocr_file": "r08_046.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "杨浦区",
+    "sequence": 339,
+    "basic_beds": 15,
+    "source_image": "basic_beds_2026_8.png",
+    "source_row": 47,
+    "ocr_file": "r08_047.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 340,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 1,
+    "ocr_file": "r09_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 341,
+    "basic_beds": 215,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 2,
+    "ocr_file": "r09_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 342,
+    "basic_beds": 270,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 3,
+    "ocr_file": "r09_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 343,
+    "basic_beds": 160,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 4,
+    "ocr_file": "r09_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 344,
+    "basic_beds": 72,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 5,
+    "ocr_file": "r09_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 345,
+    "basic_beds": 154,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 6,
+    "ocr_file": "r09_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 346,
+    "basic_beds": 140,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 7,
+    "ocr_file": "r09_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 347,
+    "basic_beds": 417,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 8,
+    "ocr_file": "r09_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 348,
+    "basic_beds": 140,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 9,
+    "ocr_file": "r09_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 349,
+    "basic_beds": 288,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 10,
+    "ocr_file": "r09_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 350,
+    "basic_beds": 144,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 11,
+    "ocr_file": "r09_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 351,
+    "basic_beds": 948,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 12,
+    "ocr_file": "r09_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 352,
+    "basic_beds": 430,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 13,
+    "ocr_file": "r09_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 353,
+    "basic_beds": 312,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 14,
+    "ocr_file": "r09_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 354,
+    "basic_beds": 203,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 15,
+    "ocr_file": "r09_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 355,
+    "basic_beds": 131,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 16,
+    "ocr_file": "r09_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 356,
+    "basic_beds": 950,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 17,
+    "ocr_file": "r09_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 357,
+    "basic_beds": 466,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 18,
+    "ocr_file": "r09_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 358,
+    "basic_beds": 850,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 19,
+    "ocr_file": "r09_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 359,
+    "basic_beds": 137,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 20,
+    "ocr_file": "r09_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 360,
+    "basic_beds": 110,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 21,
+    "ocr_file": "r09_021.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 361,
+    "basic_beds": 281,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 22,
+    "ocr_file": "r09_022.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 362,
+    "basic_beds": 25,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 23,
+    "ocr_file": "r09_023.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 363,
+    "basic_beds": 45,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 24,
+    "ocr_file": "r09_024.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 364,
+    "basic_beds": 27,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 25,
+    "ocr_file": "r09_025.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 365,
+    "basic_beds": 38,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 26,
+    "ocr_file": "r09_026.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 366,
+    "basic_beds": 42,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 27,
+    "ocr_file": "r09_027.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 367,
+    "basic_beds": 38,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 28,
+    "ocr_file": "r09_028.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 368,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 29,
+    "ocr_file": "r09_029.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 369,
+    "basic_beds": 36,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 30,
+    "ocr_file": "r09_030.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 370,
+    "basic_beds": 28,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 31,
+    "ocr_file": "r09_031.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 371,
+    "basic_beds": 15,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 32,
+    "ocr_file": "r09_032.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 372,
+    "basic_beds": 25,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 33,
+    "ocr_file": "r09_033.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "宝山区",
+    "sequence": 373,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_9.png",
+    "source_row": 34,
+    "ocr_file": "r09_034.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 374,
+    "basic_beds": 397,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 1,
+    "ocr_file": "r10_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 375,
+    "basic_beds": 426,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 2,
+    "ocr_file": "r10_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 376,
+    "basic_beds": 197,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 3,
+    "ocr_file": "r10_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 377,
+    "basic_beds": 95,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 4,
+    "ocr_file": "r10_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 378,
+    "basic_beds": 180,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 5,
+    "ocr_file": "r10_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 379,
+    "basic_beds": 252,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 6,
+    "ocr_file": "r10_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 380,
+    "basic_beds": 384,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 7,
+    "ocr_file": "r10_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 381,
+    "basic_beds": 99,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 8,
+    "ocr_file": "r10_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 382,
+    "basic_beds": 380,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 9,
+    "ocr_file": "r10_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 383,
+    "basic_beds": 394,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 10,
+    "ocr_file": "r10_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 384,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 11,
+    "ocr_file": "r10_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 385,
+    "basic_beds": 158,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 12,
+    "ocr_file": "r10_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 386,
+    "basic_beds": 60,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 13,
+    "ocr_file": "r10_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 387,
+    "basic_beds": 60,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 14,
+    "ocr_file": "r10_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 388,
+    "basic_beds": 550,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 15,
+    "ocr_file": "r10_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 389,
+    "basic_beds": 151,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 16,
+    "ocr_file": "r10_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 390,
+    "basic_beds": 316,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 17,
+    "ocr_file": "r10_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 391,
+    "basic_beds": 605,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 18,
+    "ocr_file": "r10_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 392,
+    "basic_beds": 72,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 19,
+    "ocr_file": "r10_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 393,
+    "basic_beds": 290,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 20,
+    "ocr_file": "r10_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 394,
+    "basic_beds": 408,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 21,
+    "ocr_file": "r10_021.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 395,
+    "basic_beds": 200,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 22,
+    "ocr_file": "r10_022.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 396,
+    "basic_beds": 92,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 23,
+    "ocr_file": "r10_023.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 397,
+    "basic_beds": 1366,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 24,
+    "ocr_file": "r10_024.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "闵行区",
+    "sequence": 398,
+    "basic_beds": 120,
+    "source_image": "basic_beds_2026_10.png",
+    "source_row": 25,
+    "ocr_file": "r10_025.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 399,
+    "basic_beds": 778,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 1,
+    "ocr_file": "r11_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 400,
+    "basic_beds": 433,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 2,
+    "ocr_file": "r11_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 401,
+    "basic_beds": 316,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 3,
+    "ocr_file": "r11_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 402,
+    "basic_beds": 128,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 4,
+    "ocr_file": "r11_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 403,
+    "basic_beds": 562,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 5,
+    "ocr_file": "r11_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 404,
+    "basic_beds": 368,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 6,
+    "ocr_file": "r11_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 405,
+    "basic_beds": 400,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 7,
+    "ocr_file": "r11_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 406,
+    "basic_beds": 260,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 8,
+    "ocr_file": "r11_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 407,
+    "basic_beds": 499,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 9,
+    "ocr_file": "r11_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 408,
+    "basic_beds": 880,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 10,
+    "ocr_file": "r11_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 409,
+    "basic_beds": 252,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 11,
+    "ocr_file": "r11_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 410,
+    "basic_beds": 219,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 12,
+    "ocr_file": "r11_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 411,
+    "basic_beds": 192,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 13,
+    "ocr_file": "r11_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "嘉定区",
+    "sequence": 412,
+    "basic_beds": 660,
+    "source_image": "basic_beds_2026_11.png",
+    "source_row": 14,
+    "ocr_file": "r11_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 413,
+    "basic_beds": 240,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 1,
+    "ocr_file": "r12_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 414,
+    "basic_beds": 302,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 2,
+    "ocr_file": "r12_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 415,
+    "basic_beds": 128,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 3,
+    "ocr_file": "r12_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 416,
+    "basic_beds": 362,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 4,
+    "ocr_file": "r12_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 417,
+    "basic_beds": 54,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 5,
+    "ocr_file": "r12_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 418,
+    "basic_beds": 88,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 6,
+    "ocr_file": "r12_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 419,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 7,
+    "ocr_file": "r12_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 420,
+    "basic_beds": 60,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 8,
+    "ocr_file": "r12_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 421,
+    "basic_beds": 116,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 9,
+    "ocr_file": "r12_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 422,
+    "basic_beds": 263,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 10,
+    "ocr_file": "r12_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 423,
+    "basic_beds": 126,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 11,
+    "ocr_file": "r12_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 424,
+    "basic_beds": 135,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 12,
+    "ocr_file": "r12_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 425,
+    "basic_beds": 966,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 13,
+    "ocr_file": "r12_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 426,
+    "basic_beds": 56,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 14,
+    "ocr_file": "r12_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 427,
+    "basic_beds": 160,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 15,
+    "ocr_file": "r12_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "金山区",
+    "sequence": 428,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_12.png",
+    "source_row": 16,
+    "ocr_file": "r12_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 429,
+    "basic_beds": 560,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 1,
+    "ocr_file": "r13_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 430,
+    "basic_beds": 1000,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 2,
+    "ocr_file": "r13_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 431,
+    "basic_beds": 156,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 3,
+    "ocr_file": "r13_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 432,
+    "basic_beds": 156,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 4,
+    "ocr_file": "r13_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 433,
+    "basic_beds": 130,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 5,
+    "ocr_file": "r13_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 434,
+    "basic_beds": 190,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 6,
+    "ocr_file": "r13_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 435,
+    "basic_beds": 428,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 7,
+    "ocr_file": "r13_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 436,
+    "basic_beds": 164,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 8,
+    "ocr_file": "r13_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 437,
+    "basic_beds": 250,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 9,
+    "ocr_file": "r13_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 438,
+    "basic_beds": 228,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 10,
+    "ocr_file": "r13_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 439,
+    "basic_beds": 150,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 11,
+    "ocr_file": "r13_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 440,
+    "basic_beds": 946,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 12,
+    "ocr_file": "r13_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 441,
+    "basic_beds": 216,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 13,
+    "ocr_file": "r13_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 442,
+    "basic_beds": 400,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 14,
+    "ocr_file": "r13_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 443,
+    "basic_beds": 120,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 15,
+    "ocr_file": "r13_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 444,
+    "basic_beds": 308,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 16,
+    "ocr_file": "r13_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 445,
+    "basic_beds": 80,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 17,
+    "ocr_file": "r13_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "松江区",
+    "sequence": 446,
+    "basic_beds": 170,
+    "source_image": "basic_beds_2026_13.png",
+    "source_row": 18,
+    "ocr_file": "r13_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 447,
+    "basic_beds": 172,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 1,
+    "ocr_file": "r14_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 448,
+    "basic_beds": 600,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 2,
+    "ocr_file": "r14_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 449,
+    "basic_beds": 55,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 3,
+    "ocr_file": "r14_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 450,
+    "basic_beds": 189,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 4,
+    "ocr_file": "r14_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 451,
+    "basic_beds": 275,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 5,
+    "ocr_file": "r14_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 452,
+    "basic_beds": 344,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 6,
+    "ocr_file": "r14_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 453,
+    "basic_beds": 202,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 7,
+    "ocr_file": "r14_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 454,
+    "basic_beds": 105,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 8,
+    "ocr_file": "r14_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 455,
+    "basic_beds": 169,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 9,
+    "ocr_file": "r14_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 456,
+    "basic_beds": 424,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 10,
+    "ocr_file": "r14_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 457,
+    "basic_beds": 72,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 11,
+    "ocr_file": "r14_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 458,
+    "basic_beds": 387,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 12,
+    "ocr_file": "r14_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 459,
+    "basic_beds": 159,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 13,
+    "ocr_file": "r14_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 460,
+    "basic_beds": 150,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 14,
+    "ocr_file": "r14_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 461,
+    "basic_beds": 442,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 15,
+    "ocr_file": "r14_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 462,
+    "basic_beds": 48,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 16,
+    "ocr_file": "r14_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "青浦区",
+    "sequence": 463,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_14.png",
+    "source_row": 17,
+    "ocr_file": "r14_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 464,
+    "basic_beds": 768,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 1,
+    "ocr_file": "r15_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 465,
+    "basic_beds": 252,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 2,
+    "ocr_file": "r15_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 466,
+    "basic_beds": 250,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 3,
+    "ocr_file": "r15_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 467,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 4,
+    "ocr_file": "r15_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 468,
+    "basic_beds": 232,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 5,
+    "ocr_file": "r15_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 469,
+    "basic_beds": 385,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 6,
+    "ocr_file": "r15_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 470,
+    "basic_beds": 118,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 7,
+    "ocr_file": "r15_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 471,
+    "basic_beds": 431,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 8,
+    "ocr_file": "r15_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 472,
+    "basic_beds": 110,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 9,
+    "ocr_file": "r15_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 473,
+    "basic_beds": 499,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 10,
+    "ocr_file": "r15_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 474,
+    "basic_beds": 182,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 11,
+    "ocr_file": "r15_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "奉贤区",
+    "sequence": 475,
+    "basic_beds": 310,
+    "source_image": "basic_beds_2026_15.png",
+    "source_row": 12,
+    "ocr_file": "r15_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 476,
+    "basic_beds": 78,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 1,
+    "ocr_file": "r16_001.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 477,
+    "basic_beds": 75,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 2,
+    "ocr_file": "r16_002.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 478,
+    "basic_beds": 170,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 3,
+    "ocr_file": "r16_003.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 479,
+    "basic_beds": 180,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 4,
+    "ocr_file": "r16_004.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 480,
+    "basic_beds": 130,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 5,
+    "ocr_file": "r16_005.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 481,
+    "basic_beds": 70,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 6,
+    "ocr_file": "r16_006.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 482,
+    "basic_beds": 186,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 7,
+    "ocr_file": "r16_007.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 483,
+    "basic_beds": 137,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 8,
+    "ocr_file": "r16_008.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 484,
+    "basic_beds": 171,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 9,
+    "ocr_file": "r16_009.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 485,
+    "basic_beds": 148,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 10,
+    "ocr_file": "r16_010.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 486,
+    "basic_beds": 232,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 11,
+    "ocr_file": "r16_011.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 487,
+    "basic_beds": 142,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 12,
+    "ocr_file": "r16_012.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 488,
+    "basic_beds": 154,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 13,
+    "ocr_file": "r16_013.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 489,
+    "basic_beds": 170,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 14,
+    "ocr_file": "r16_014.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 490,
+    "basic_beds": 133,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 15,
+    "ocr_file": "r16_015.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 491,
+    "basic_beds": 121,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 16,
+    "ocr_file": "r16_016.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 492,
+    "basic_beds": 182,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 17,
+    "ocr_file": "r16_017.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 493,
+    "basic_beds": 420,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 18,
+    "ocr_file": "r16_018.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 494,
+    "basic_beds": 208,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 19,
+    "ocr_file": "r16_019.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 495,
+    "basic_beds": 50,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 20,
+    "ocr_file": "r16_020.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 496,
+    "basic_beds": 100,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 21,
+    "ocr_file": "r16_021.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 497,
+    "basic_beds": 499,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 22,
+    "ocr_file": "r16_022.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 498,
+    "basic_beds": 383,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 23,
+    "ocr_file": "r16_023.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 499,
+    "basic_beds": 285,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 24,
+    "ocr_file": "r16_024.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 500,
+    "basic_beds": 49,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 25,
+    "ocr_file": "r16_025.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  },
+  {
+    "group": "崇明区",
+    "sequence": 501,
+    "basic_beds": 54,
+    "source_image": "basic_beds_2026_16.png",
+    "source_row": 26,
+    "ocr_file": "r16_026.png.ocr.json",
+    "minimum_confidence": 1,
+    "review_method": "图像数字对照及显式修订；未由第三方独立双录入"
+  }
+]
