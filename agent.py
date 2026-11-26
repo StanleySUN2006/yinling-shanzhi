@@ -55,6 +55,9 @@ def load_config(root):
    if '=' in line and not line.lstrip().startswith('#'):
     k,v=line.split('=',1);values[k.strip()]=v.strip()
  key=os.environ.get('DEEPSEEK_API_KEY') or values.get('DEEPSEEK_API_KEY')
+ if key:
+  # Render/表单粘贴常把换行带进环境变量；HTTP header 不允许换行，必须清洗。
+  key=key.strip().replace('\r','').replace('\n','').replace('\\n','').replace('\\r','').strip()
  if not key:raise AgentError('未配置DeepSeek密钥')
  model=values.get('DEEPSEEK_MODEL','deepseek-flash')
  if model not in ('deepseek-flash','deepseek-v4-pro'):raise AgentError('配置了未支持的模型')
